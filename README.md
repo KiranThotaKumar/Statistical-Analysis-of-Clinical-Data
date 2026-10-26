@@ -1,2 +1,28 @@
-# Statistical Analysis of Clinical-Data
-To develop a reproducible statistical workflow for a synthetic retrospective cohort, demonstrating descriptive statistics, hypothesis testing, penalised logistic regression, sensitivity analysis, and survival analysis.
+<h1 align="center">Reproducible Statistical Analysis of a Retrospective Clinical Cohort Using R</h1>
+
+## Table of Contents
+
+1. [Project Overview](#1-project-overview)
+2. [Objectives and Scope](#2-objectives-and-scope)
+3. [Synthetic Dataset Description](#3-synthetic-dataset-description)
+4. [Data Dictionary](#4-data-dictionary)
+5. [Statistical Methodology](#5-statistical-methodology)
+   - [5.1 Descriptive Statistics and Group Comparisons](#51-descriptive-statistics-and-group-comparisons)
+   - [5.2 Correlation and Trend Analysis](#52-correlation-and-trend-analysis)
+   - [5.3 Firth Penalised Logistic Regression](#53-firth-penalised-logistic-regression)
+   - [5.4 Interaction Analysis](#54-interaction-analysis)
+   - [5.5 E-value Sensitivity Analysis](#55-e-value-sensitivity-analysis)
+   - [5.6 Kaplan–Meier and Landmark Analysis](#56-kaplan-meier-and-landmark-analysis)
+   - [5.7 Cox Proportional-Hazards Regression](#57-cox-proportional-hazards-regression)
+6. [Project Structure](#6-project-structure)
+7. [Software and Dependencies](#7-software-and-dependencies)
+8. [Synthetic Data Generation and Validation](#8-synthetic-data-generation-and-validation)
+9. [Analysis Workflow](#9-analysis-workflow)
+10. [Results and Visualisations](#10-results-and-visualisations)
+11. [Reproducibility and Validation](#11-reproducibility-and-validation)
+12. [Methodological Considerations and Limitations](#12-methodological-considerations-and-limitations)
+13. [Ethical Considerations](#13-ethical-considerations)
+14. [How to Run the Project](#14-how-to-run-the-project)
+15. [References](#15-references)
+16. [Detailed Report](#16-detailed-report)
+17. [License](#17-license)
